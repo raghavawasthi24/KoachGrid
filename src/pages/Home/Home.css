@@ -1,4 +1,16 @@
 .cardsSec{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+}
+.mainHead{
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5% 2%;
+    box-shadow: 1px 1px 1px rgba(176, 174, 174, 0.572);
+}
+.mainHead img{
+    width: 2rem;
 }
